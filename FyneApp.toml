@@ -1,0 +1,8 @@
+Website = "https://github.com/deepchris/djify"
+
+[Details]
+Icon = "Icon.png"
+Name = "DJ-ify"
+ID = "com.gypsythreat.app"
+Version = "1.0.0"
+Build = 1
